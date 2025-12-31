@@ -2,6 +2,7 @@ Towards automated causal discovery in the social sciences
 
 
 This project implements a non-experimental replication framework to validate Causal Discovery algorithms, the Additive Noise Model (ANM) and Information-Geometric Causal Inference (IGCI). By mapping 11 causal pairs from established RCT meta-analyses to observational datasets, this repository makes a step forward towards how "Big Data" can be used to verify causal claims in social science.
+We utilize the CausalDiscoveryToolbox (CDT) for the implementation of the Additive Noise Model (ANM) and IGCI algorithms. We acknowledge the technical documentation and tools provided by FenTech Solutions, which were instrumental in the execution of the causal discovery pipeline. Source: https://fentechsolutions.github.io/CausalDiscoveryToolbox/html/causality.html#anm
 
 
 Project Structure
